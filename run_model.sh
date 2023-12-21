@@ -14,5 +14,5 @@ cd $PBS_O_WORKDIR
 module load BaseGPU/2022
 source activate base
 nvidia-smi
-python ../ShFNO.py >& ./ShFNO.txt
+python ./ShFNO.py >& ./squid/log/ShFNO.txt
 ## mpirun ${NQSV_MPIOPTS} -np 2 -npernode 2 python $job.py >& $job.txt

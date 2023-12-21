@@ -1,0 +1,3 @@
+Loading BaseGPU/2022
+  Loading requirement: nvhpc/22.2 cuda/11.6 openmpi/4.0.5cu11.6ofed5.6
+/var/opt/nec/nqsv/jsv/jobfile/0.396958.10/user_script: 行 17: ./squid/log/ShFNO.txt: そのようなファイルやディレクトリはありません
